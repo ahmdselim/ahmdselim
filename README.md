@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ahmed hassan</h1>
-<h3 align="center">i am a web developer and freelancer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi+%F0%9F%91%8B;I'm+Ahmed+hassan+;I'm+Front+End+Developer;Freelancer)](https://git.io/typing-svg)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmdselim&theme=default)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmdselim&label=Profile%20views&color=0e75b6&style=flat" alt="ahmdselim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmdselim" alt="ahmdselim" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mido_dev" target="blank"><img src="https://img.shields.io/twitter/follow/mido_dev?logo=twitter&style=for-the-badge" alt="mido_dev" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://ahmdselim.github.io/profile](https://ahmdselim.github.io/profile)
 
@@ -14,6 +13,7 @@
 - 📫 How to reach me **ahmdhassaneg@gmail.com**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmdselim&show_icons=true&locale=en&layout=compact" alt="ahmdselim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmdselim&show_icons=true&locale=en" alt="ahmdselim" /></p>
+<br /><br /><br /><br /><br /><br /><br /><p align="left"> <a href="https://twitter.com/mido_dev" target="blank"><img src="https://img.shields.io/twitter/follow/mido_dev?logo=twitter&style=for-the-badge" alt="mido_dev" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmdselim&" alt="ahmdselim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmdselim&show_icons=true&locale=en" alt="ahmdselim" /></p>
