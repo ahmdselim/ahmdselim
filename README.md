@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi+%F0%9F%91%8B;I'm+Ahmed+hassan+;I'm+Front+End+Developer;Freelancer)](https://git.io/typing-svg)
+Hi there <img style="-webkit-user-select: none;margin: auto;transition: background-color 300ms;height:15px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=I'm+Ahmed+hassan+;I'm+Front+End+Developer;Freelancer)](https://git.io/typing-svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmdselim&theme=default)
 
