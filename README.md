@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmdselim.github.io/profile](https://ahmdselim.github.io/profile)
 
-- 💬 Ask me about **react and firebase**
+- 💬 Ask me about **js, react, firebase, php, laravel**
 
 - 📫 How to reach me **ahmdhassaneg@gmail.com**
 
